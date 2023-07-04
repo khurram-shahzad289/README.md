@@ -14,9 +14,9 @@ Hello.
 </div>
 
 ##
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khurram-shahzad289&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khurram-shahzad289&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khurram-shahzad289&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khurram-shahzad289&theme=github_light)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khurram-shahzad289&theme=github_light)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khurram-shahzad289&theme=github_light)
 </div>
 
 <!---
