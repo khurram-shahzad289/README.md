@@ -4,7 +4,7 @@ Hello.
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p>Heloo my name is SHAHZAD and I am a Full Stack web developer<p>
+<p>Hello my name is SHAHZAD and I am a Full Stack web developer<p>
 
 
 <h3 align="left">Languages and Tools:</h3>
